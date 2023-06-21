@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConstrationLayout</string>
+    <string name="space">Spaces</string>
+    <string name="flights">Flights</string>
+    <string name="rovers">Rovers</string>
+    <string name="spaces">Spaces</string>
+    <string name="dca">DCA</string>
+    <string name="oneway">Oneway</string>
+    <string name="traveller">Traveller</string>
+    <string name="mars">Mars</string>
+    <string name="d">D</string>
+    <string name="m">M</string>
+</resources>
